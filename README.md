@@ -3,6 +3,9 @@
 This notebook explores flight-related data using Python and Jupyter Notebook. It demonstrates data cleaning, exploratory analysis, and visualization techniques to uncover insights from real-world flight datasets.
 
 This notebook explained about matplotlin library about how to make pie charts and bar charts 
+
+This will help us to analyze data and make predictions 
+
 📂 Repository Structure
 flightData/
 ├── flightData.ipynb        # Main analysis notebook
